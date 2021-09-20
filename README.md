@@ -1,2 +1,3 @@
-# evaluate_contribution_using_shapley_value
-In this repository, I try to evaluate a contribution of two-way player using shapley value.
+# Purpose
+To evaluate a contribution of a two-way player by Shapley-value.
+In this repo, I evaluate the contribution of S. Ohtani.
